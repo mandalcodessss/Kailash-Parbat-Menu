@@ -3,7 +3,7 @@ const CONFIG = {
   name: 'Kailash Parbat',
   tagline: 'Taste & Tradition Since 1952',
   currency: '₹',
-  sheetCsvUrl: '',        // Google Sheet "Publish to web" CSV link. Empty = use menu.csv
+  sheetCsvUrl: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vQ4JEpo2giPdUotTt1RGCZXCra51zRomVMwwSGHaSXhGjRyNysGE_3Q405xUmGG0R3kdUizZKDTsTu7/pub?gid=1512654588&single=true&output=csv',        // Google Sheet "Publish to web" CSV link. Empty = use menu.csv
   logo: 'logo.png',       // café logo file in the same folder
   payment: true,          // false = menu only (₹3k plan), true = pay buttons (₹5k plan)
   review: true,           // show Google review button after paying
