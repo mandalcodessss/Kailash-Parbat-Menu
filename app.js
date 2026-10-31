@@ -9,8 +9,8 @@ const CONFIG = {
   review: true,           // show Google review button after paying
   upiId: '',              // e.g. cafe@okbank (café's own UPI ID)
   upiName: 'Kailash Parbat',
-  upiQr: 'upi_qr.png',    // café's own UPI QR image
-  googleReview: ''        // https://search.google.com/local/writereview?placeid=PLACE_ID
+  upiQr: 'upi_qr.jpeg',    // café's own UPI QR image
+  googleReview: ' https://search.google.com/local/writereview?placeid=ChIJt5o75L_R5zsRmLoKsaxqGBA'        // https://search.google.com/local/writereview?placeid=PLACE_ID
 };
 // =============================================
 
